@@ -1,5 +1,10 @@
 the goal of this repository is to archive basicbillmains discord profile, please note that this git is incomplete.
 
+note:
+- this git will update if:
+- basic updates his profile
+- if more images of his old profile is found.
+
 # Latest Archive:
 ## Basic Playing Geometry Dash
 ![img](images/Screenshot_20260119_104241_Discord.jpg)
