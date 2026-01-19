@@ -1,4 +1,4 @@
-the goal of this repository is to archive basicbillmains discord profile,please note that this is incomplete.
+the goal of this repository is to archive basicbillmains discord profile, please note that this is incomplete.
 
 # Latest Archive:
 ## Basic Playing Geometry Dash
