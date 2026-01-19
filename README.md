@@ -20,6 +20,8 @@ the goal of this repository is to archive basicbillmains discord profile, please
 
 ![img](images/a5.jpg)
 
+![img](images/a11.jpg)
+
 # [INCOMPLETE] Basic Name Archives:
 'jolly joli :3'
 
