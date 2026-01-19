@@ -31,6 +31,7 @@ the goal of this repository is to archive basicbillmains discord profile, please
 ![img](images/a6.jpg)
 ![img](images/a7.jpg)
 ![img](images/a8.jpg)
+~ basic ~: I’m so on din din done with Omen.
 
 ## Epik Moment:
 ![img](images/a9.jpg)
