@@ -1,4 +1,5 @@
-please this is incomplete.
+the goal of this repository is to archive basicbillmains discord profile,please note that this is incomplete.
+
 # Latest Archive:
 ## Basic Playing Geometry Dash
 ![img](images/Screenshot_20260119_104241_Discord.jpg)
