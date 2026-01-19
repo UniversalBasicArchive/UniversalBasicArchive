@@ -4,8 +4,8 @@ the goal of this repository is to archive basicbillmains discord profile, please
 
 - *NOTE*:
 - this git will update if:
-- basic updates his profile
-- if more images of his old profile is found.
+- basic updates her profile
+- if more images of her old profile is found.
 
 # Latest Archive:
 ## Basic Playing Geometry Dash
