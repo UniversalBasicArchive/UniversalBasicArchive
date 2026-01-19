@@ -32,3 +32,7 @@ the goal of this repository is to archive basicbillmains discord profile, please
 
 ## Epik Moment:
 ![img](images/a9.jpg)
+
+# Proof that basic is an good girl:
+### she uses the pfp i gave her 🌹🌹*'??!?!]×>x3
+![img](images/a10.jpg)
