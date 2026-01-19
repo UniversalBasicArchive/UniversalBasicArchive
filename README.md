@@ -24,3 +24,8 @@ the goal of this repository is to archive basicbillmains discord profile, please
 'jolly joli :3'
 
 ![img](images/a3.jpg)
+
+# [NEW] Basic Chat Archives:
+![img](images/a6.jpg)
+![img](images/a7.jpg)
+![img](images/a8.jpg)
