@@ -1,1 +1,1 @@
-## seting ip
+## Setting up
