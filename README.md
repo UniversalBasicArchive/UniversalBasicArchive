@@ -9,7 +9,8 @@ the goal of this repository is to archive basicbillmains discord profile, please
 
 # Latest Archive:
 ## Basic Playing Geometry Dash
-![img](images/Screenshot_20260119_104241_Discord.jpg)
+### (01-20-2026)
+![img](images/a12.jpg)
 
 # Basic PFP Archives:
 ![img](images/a1.jpg)
