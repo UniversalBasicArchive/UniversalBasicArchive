@@ -26,7 +26,9 @@ the goal of this repository is to archive basicbillmains discord profile, please
 # [INCOMPLETE] Basic Name Archives:
 'jolly joli :3'
 
+## basics name still being 'basic... FURRY?1?1' in UnbelievaBoat.
 ![img](images/a3.jpg)
+![img](images/a13.jpg)
 
 # [NEW] Basic Chat Archives:
 ![img](images/a6.jpg)
