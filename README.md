@@ -1,3 +1,5 @@
+i have discontinued ts for basics own good
+
 the goal of this repository is to archive basicbillmains discord profile, please note that this git is incomplete.
 
 *(yes this git was actually created because basic is very cool)*
